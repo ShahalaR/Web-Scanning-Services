@@ -6,8 +6,6 @@ Also, outsourcing companies frequently have the funds to make investments in the
 
 The ability to utilize cutting-edge technologies and subject-matter experts to recognise and solve any security dangers to a website is one of the key benefits of outsourcing web vulnerability scans for businesses. 
 
-![Web scanning services](/home/poornam/Downloads/Web scanning services.png "Web Vulnerability Scanning")
-
 Companies can gain access to the newest tools and resources to stay current on the most recent threats and vulnerabilities by working with a specialized provider.
 In the end, this lowers the danger of cyberattacks and data breaches by helping to safeguard critical data and maintain the website's integrity.
 
